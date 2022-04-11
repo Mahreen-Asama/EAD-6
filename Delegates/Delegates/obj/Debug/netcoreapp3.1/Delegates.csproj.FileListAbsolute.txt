@@ -1,0 +1,17 @@
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.AssemblyReference.cache
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\MathOperationsLibrary.dll
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\MathOperationsLibrary.pdb
+C:\Users\Mahreen Asama\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CopyComplete

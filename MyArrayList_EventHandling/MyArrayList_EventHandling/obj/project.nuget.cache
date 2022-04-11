@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJdvXmpFLafWmZXBZCxavRruiCyCRjN2WiD+mA5f+bIhNoXn1ldrlbDRcrZBqNq+MCrJWiYY66o9kWei8YuIDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahreen Asama\\source\\repos\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

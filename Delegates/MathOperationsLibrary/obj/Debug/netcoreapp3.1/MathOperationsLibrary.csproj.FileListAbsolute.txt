@@ -1,0 +1,10 @@
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\bin\Debug\netcoreapp3.1\MathOperationsLibrary.deps.json
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\bin\Debug\netcoreapp3.1\MathOperationsLibrary.dll
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\bin\Debug\netcoreapp3.1\MathOperationsLibrary.pdb
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\obj\Debug\netcoreapp3.1\MathOperationsLibrary.csproj.AssemblyReference.cache
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\obj\Debug\netcoreapp3.1\MathOperationsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\obj\Debug\netcoreapp3.1\MathOperationsLibrary.AssemblyInfoInputs.cache
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\obj\Debug\netcoreapp3.1\MathOperationsLibrary.AssemblyInfo.cs
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\obj\Debug\netcoreapp3.1\MathOperationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\obj\Debug\netcoreapp3.1\MathOperationsLibrary.dll
+C:\Users\Mahreen Asama\source\repos\Delegates\MathOperationsLibrary\obj\Debug\netcoreapp3.1\MathOperationsLibrary.pdb

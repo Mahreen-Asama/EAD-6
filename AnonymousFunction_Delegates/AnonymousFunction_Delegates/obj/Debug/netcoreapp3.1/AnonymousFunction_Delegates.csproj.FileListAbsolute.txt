@@ -1,0 +1,13 @@
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\bin\Debug\netcoreapp3.1\AnonymousFunction_Delegates.exe
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\bin\Debug\netcoreapp3.1\AnonymousFunction_Delegates.deps.json
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\bin\Debug\netcoreapp3.1\AnonymousFunction_Delegates.runtimeconfig.json
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\bin\Debug\netcoreapp3.1\AnonymousFunction_Delegates.runtimeconfig.dev.json
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\bin\Debug\netcoreapp3.1\AnonymousFunction_Delegates.dll
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\bin\Debug\netcoreapp3.1\AnonymousFunction_Delegates.pdb
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\obj\Debug\netcoreapp3.1\AnonymousFunction_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\obj\Debug\netcoreapp3.1\AnonymousFunction_Delegates.AssemblyInfoInputs.cache
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\obj\Debug\netcoreapp3.1\AnonymousFunction_Delegates.AssemblyInfo.cs
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\obj\Debug\netcoreapp3.1\AnonymousFunction_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\obj\Debug\netcoreapp3.1\AnonymousFunction_Delegates.dll
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\obj\Debug\netcoreapp3.1\AnonymousFunction_Delegates.pdb
+C:\Users\Mahreen Asama\source\repos\EAD\AnonymousFunction_Delegates\AnonymousFunction_Delegates\obj\Debug\netcoreapp3.1\AnonymousFunction_Delegates.genruntimeconfig.cache

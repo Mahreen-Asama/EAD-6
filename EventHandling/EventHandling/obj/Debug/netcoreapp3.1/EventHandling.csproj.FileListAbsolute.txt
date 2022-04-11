@@ -1,0 +1,14 @@
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.exe
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.deps.json
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.runtimeconfig.json
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.runtimeconfig.dev.json
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.dll
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\bin\Debug\netcoreapp3.1\EventHandling.pdb
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.AssemblyInfoInputs.cache
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.AssemblyInfo.cs
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.csproj.CoreCompileInputs.cache
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.dll
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.pdb
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.genruntimeconfig.cache
+C:\Users\Mahreen Asama\source\repos\EventHandling\EventHandling\obj\Debug\netcoreapp3.1\EventHandling.csproj.AssemblyReference.cache
