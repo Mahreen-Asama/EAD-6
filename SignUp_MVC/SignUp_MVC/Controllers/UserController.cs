@@ -10,16 +10,25 @@ namespace SignUp_MVC.Controllers
     public class UserController :Controller
     {
         [HttpPost]
-        public ActionResult SignUp(string username, string password, string email)
+        public void Hello(UserBO user)
+        {
+
+        }
+
+        ViewResult Login()
+        {
+            return View("Index");
+        }
+        [HttpPost]
+        public ActionResult SignUp(UserBO user)
         {
             string msg = string.Empty;
 
-            UserBO user = new UserBO();
+           /* UserBO user = new UserBO();
             user.Username = username;
             user.Password = password;
-            user.Email = email;
+            user.Email = email;*/
 
-            //UserManagment userMgmt = new UserManagment();
             if (UserManagment.UserAlreadyExist(user))
             {
                 TempData["duplicate_email"] = "This email already exists";
@@ -32,14 +41,17 @@ namespace SignUp_MVC.Controllers
                 UserManagment.SaveLoginInfo(user);
 
                 Console.WriteLine("hello");
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction();
             }
         }
+     
 
         [HttpGet]
         public ViewResult SignUp()
         {
             return View("Signup");
         }
+
+      
     }
 }
