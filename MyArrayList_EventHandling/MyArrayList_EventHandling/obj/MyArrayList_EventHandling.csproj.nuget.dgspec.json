@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahreen Asama\\source\\repos\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj": {}
+    "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahreen Asama\\source\\repos\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj": {
+    "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj",
+        "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj",
         "projectName": "MyArrayList_EventHandling",
-        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj",
+        "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\MyArrayList_EventHandling.csproj",
         "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\obj\\",
+        "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\MyArrayList_EventHandling\\MyArrayList_EventHandling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

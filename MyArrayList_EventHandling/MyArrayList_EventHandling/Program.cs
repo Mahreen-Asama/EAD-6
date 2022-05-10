@@ -12,6 +12,11 @@ namespace MyArrayList_EventHandling
     {
         public int Count { get; set; }      //to maintain count of list items
         public object Value { get; set; }   //current value added to list
+
+        public MyArgs()
+        {
+            Count = 0;
+        }
     }
 
     //pubisher class
@@ -37,6 +42,10 @@ namespace MyArrayList_EventHandling
         {
             MyArgs arg = new MyArgs();
             arg.Count = c++;
+
+            //Console.WriteLine("--- " + arg.Count);
+            //arg.Count += 1;
+
             arg.Value = val;
 
             Added3(this, arg);     //event fired

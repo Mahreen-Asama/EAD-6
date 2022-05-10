@@ -40,8 +40,7 @@ namespace SignUp_MVC.Controllers
 
                 UserManagment.SaveLoginInfo(user);
 
-                Console.WriteLine("hello");
-                return RedirectToAction();
+                return RedirectToAction("index", "home");
             }
         }
      
@@ -49,7 +48,7 @@ namespace SignUp_MVC.Controllers
         [HttpGet]
         public ViewResult SignUp()
         {
-            return View("Signup");
+            return View();
         }
 
       

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\Delegates\\Delegates.csproj",
+      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\Delegates\\obj\\",
+      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj": {
-              "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj"
+            "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj": {
+              "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj"
             }
           }
         }
@@ -93,7 +93,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

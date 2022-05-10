@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NkTPvp0vviVN0nPrXDEdRj5gPY+rsZfSxgBRe0hsh2GeV2MWYrxYJc7w3KAvDtCx52cetdlvRlQH/Uihortrog==",
+  "dgSpecHash": "6sIIT4hQa1fAZ7IPW+mKXtOk/HTRAQTdjQrM5sBTkowRWjjiYTU3TAAEXx/iWQF/Lp5X3kj6gf7M3hu36WMi3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Mahreen Asama\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

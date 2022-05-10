@@ -1,8 +1,58 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    //ViewData["Title"] = "Home Page";
 }
+@*@model List<SignUp_MVC.Models.ViewModels.UserInfo>
+*@
+
+@model (SignUp_MVC.Models.UserBO,SignUp_MVC.Models.Address)
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <table class="table table-striped">
+        <thead>
+        <tr>
+          <th scope="col">Username</th>
+          <th scope="col">Password</th>
+          <th scope="col">Email</th>
+          <th scope="col">Area</th>
+          <th scope="col">City</th>
+          <th scope="col">Country</th>
+        </tr>
+      </thead>
+      <tbody>
+            @{
+                SignUp_MVC.Models.ViewModels.UserInfo ui1 = new SignUp_MVC.Models.ViewModels.UserInfo();
+
+                ui1.UserAddress = new Address();
+                ui1.UserAddress.City = "Lahore";
+                if(ui1.UserAddress.City=="Lahore"){
+                    <tr>
+                    <td>hello</td>
+                    <td>@ViewBag.Title</td>
+                    <td>@ViewBag.string1</td>
+                    <td>@ViewData["string1"]</td>
+                    <td>@Model.Item1.Password</td>
+                    </tr>
+                }
+            }
+            
+            @*@foreach(SignUp_MVC.Models.ViewModels.UserInfo ui in Model)
+            {
+                if (ui.UserIds.Password == "124")
+                {
+                    <tr scope="row">
+                    <td>@ui.UserIds.Username</td>
+                    <td>@ui.UserIds.Password</td>
+                    <td>@ui.UserIds.Email</td>
+                    <td>@ui.UserAddress.Area</td>
+                    <td>@ui.UserAddress.City</td>
+                    <td>@ui.UserAddress.Country</td>
+                </tr>
+                }
+                
+            }*@
+        </tbody>
+    </table>
 </div>

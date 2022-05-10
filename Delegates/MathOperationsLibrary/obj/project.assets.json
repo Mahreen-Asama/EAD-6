@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj",
       "projectName": "MathOperationsLibrary",
-      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj",
+      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\MathOperationsLibrary\\MathOperationsLibrary.csproj",
       "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\Delegates\\MathOperationsLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Delegates\\MathOperationsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

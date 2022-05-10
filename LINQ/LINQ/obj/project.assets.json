@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\LINQ\\LINQ\\LINQ.csproj",
+      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\LINQ\\LINQ\\LINQ.csproj",
       "projectName": "LINQ",
-      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\LINQ\\LINQ\\LINQ.csproj",
+      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\LINQ\\LINQ\\LINQ.csproj",
       "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\LINQ\\LINQ\\obj\\",
+      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\LINQ\\LINQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
