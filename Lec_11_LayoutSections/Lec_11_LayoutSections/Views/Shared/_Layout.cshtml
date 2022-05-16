@@ -10,6 +10,7 @@
 </head>
 <body>
     <header>
+        @RenderSection("s1")
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Lec_11_LayoutSections</a>
@@ -40,6 +41,16 @@
         <div class="container">
             &copy; 2022 - Lec_11_LayoutSections - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
+        @if (IsSectionDefined("footer1"))
+        {
+            @RenderSection("footer1")
+        }
+        else
+        {
+            <div>
+                <h3>This is else than footer1</h3>
+            </div>
+        }
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
