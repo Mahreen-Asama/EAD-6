@@ -15,7 +15,11 @@ namespace Lec_11_LayoutSections.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            List<string> ss = new List<string>();
+            ss.Add("abc");
+            ss.Add("def");
+            ss.Add("hello");
+            return View(ss);
         }
 
         public IActionResult Privacy()

@@ -1,7 +1,10 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@Model List<string>
 
+
+</string>
 @section s1{
     <div>
         <h1 id="s1h1"></h1>
@@ -17,3 +20,10 @@
         <h1>This is index footer</h1>
     </div>
 }
+
+<table>
+    @*@foreach(var s in Model)
+    {
+        <partial name="_PartialView1" model="s"/>
+    }*@
+</table>
