@@ -34,16 +34,26 @@
     @ViewBag.y
 </p>*@
 
-<div>
+@*<div>
     This is weather<br />
     <vc:weather-summary></vc:weather-summary>
-</div>
+    This is weather after<br />
+
+</div>*@
 
 <div>
+    <vc:weather-summary></vc:weather-summary>
+</div>
+<div>
+    <vc:tax-summary></vc:tax-summary>
+</div>
+
+@*<div>
     This is tax<br />
     <vc:tax-summary></vc:tax-summary>
-    <partial name="TaxSummary" />
-</div>
+    This is tax after<br />
+
+</div>*@
 
 @*<table>
     ViewData["d1"]="view aadta 1"
