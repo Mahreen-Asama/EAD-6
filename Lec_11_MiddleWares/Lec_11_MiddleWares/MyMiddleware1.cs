@@ -10,13 +10,13 @@ namespace Lec_11_MiddleWares
             Console.WriteLine("hello here*****************************\n");
             this.next = nextDelegate;
         }
-        public async Task Invoke(HttpContext context)
+        public async Task Invoke (HttpContext context)
         {
             Console.WriteLine("hello here&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&\n");
 
-            await context.Response.WriteAsync("class\n");
+            await context.Response.WriteAsync("class  1\n");
             await next(context);
-            //await context.Response.WriteAsync("class after\n");
+            await context.Response.WriteAsync("class 1 after\n");
         }
     }
 }

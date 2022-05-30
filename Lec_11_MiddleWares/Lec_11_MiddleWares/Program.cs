@@ -1,14 +1,14 @@
 using Lec_11_MiddleWares;
 
-
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 
-//app.MapGet("/abc", () => "Hello World!");
-
 app.UseMiddleware<MyMiddleware1>();
 app.UseMiddleware<MyMiddleware2>();
+
+app.MapGet("/", () => "Hello World!");
+
 
 /*app.Use(async (context, next) => {
     context.Response.ContentType = "text/plain";
@@ -22,10 +22,9 @@ app.Use(async (context, next) => {
     if (context.Request.Query["someData"].Equals("abc")){
         await context.Response.WriteAsync("Aoa Pak after...\n");
     }
-});
+});*/
 app.Run(async (context) => {
     await context.Response.WriteAsync("last mw...\n");
-});*/
-
+});
 
 app.Run();

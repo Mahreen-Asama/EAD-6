@@ -11,13 +11,13 @@
         {
             if (context.Request.Path == "/short")
             {
-                await context.Response.WriteAsync("class\n");
+                 await context.Response.WriteAsync("class 2\n");  //short circuit
 
             }
             else
             {
                 await next(context);
-                //await context.Response.WriteAsync("class after\n");
+                await context.Response.WriteAsync("class 2 after\n");
             }
 
         }
