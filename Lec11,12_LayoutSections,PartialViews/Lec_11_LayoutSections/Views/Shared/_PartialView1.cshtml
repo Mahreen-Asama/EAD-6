@@ -4,9 +4,15 @@
 @{
 }
 
-@Model string
 
-<tr>
+@*<tr>
+    <td>@ViewData["d1"]</td>
     <td>@Model</td>
     <td>@Model</td>
-</tr>
+</tr>*@
+
+@{
+    ViewData["data in partial view"]="I am data of PV";
+    ViewBag.x="hello";
+ViewBag.y="bye";
+    }

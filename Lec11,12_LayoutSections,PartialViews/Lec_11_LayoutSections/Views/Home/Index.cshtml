@@ -1,7 +1,7 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-@Model List<string>
+@*@Model List<string>*@
 
 
 </string>
@@ -21,9 +21,33 @@
     </div>
 }
 
-<table>
-    @*@foreach(var s in Model)
+<partial name="_PartialView1" />
+    
+@*
+    <p>
+    @ViewData["data in partial view"]
+</p>
+<p>
+    @ViewBag.x
+</p>
+<p>
+    @ViewBag.y
+</p>*@
+
+<div>
+    This is weather<br />
+    <vc:weather-summary></vc:weather-summary>
+</div>
+
+<div>
+    This is tax<br />
+    <vc:tax-summary></vc:tax-summary>
+    <partial name="TaxSummary" />
+</div>
+
+@*<table>
+    ViewData["d1"]="view aadta 1"
+    @foreach(var s in Model)
     {
-        <partial name="_PartialView1" model="s"/>
-    }*@
-</table>
+        
+</table>*@
