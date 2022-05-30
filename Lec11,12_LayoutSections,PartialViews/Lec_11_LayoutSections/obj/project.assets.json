@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Lec_11_LayoutSections\\Lec_11_LayoutSections\\Lec_11_LayoutSections.csproj",
+      "projectUniqueName": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Lec11,12_LayoutSections,PartialViews\\Lec_11_LayoutSections\\Lec_11_LayoutSections.csproj",
       "projectName": "Lec_11_LayoutSections",
-      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Lec_11_LayoutSections\\Lec_11_LayoutSections\\Lec_11_LayoutSections.csproj",
+      "projectPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Lec11,12_LayoutSections,PartialViews\\Lec_11_LayoutSections\\Lec_11_LayoutSections.csproj",
       "packagesPath": "C:\\Users\\Mahreen Asama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Lec_11_LayoutSections\\Lec_11_LayoutSections\\obj\\",
+      "outputPath": "C:\\Users\\Mahreen Asama\\source\\repos\\EAD\\Lec11,12_LayoutSections,PartialViews\\Lec_11_LayoutSections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahreen Asama\\AppData\\Roaming\\NuGet\\NuGet.Config",
