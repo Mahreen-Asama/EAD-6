@@ -58,7 +58,32 @@ namespace Asp.Net_Core_Identity.Controllers
         [HttpGet]
         public IActionResult Login()
         {
+            Console.WriteLine("login----");
             return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var result = await
+                signInManager.PasswordSignInAsync(model.Username,
+                                              model.Password, false, false);
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("index", "home");
+                }
+                ModelState.AddModelError(string.Empty, "Invalid Username or Password");
+            }
+            return View(model);
+        }
+
+        //------logOut---------------
+        [HttpGet]
+        public async Task<IActionResult> Logout()
+        {
+            await signInManager.SignOutAsync();
+            return RedirectToAction("index", "home");
         }
 
     }
