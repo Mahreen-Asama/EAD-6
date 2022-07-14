@@ -8,5 +8,11 @@ namespace Asp.Net_Core_Identity.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
+        }
     }
 }
