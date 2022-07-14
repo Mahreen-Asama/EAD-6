@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lec-16-JQuery/1.0.0": {
+        "runtime": {
+          "Lec-16-JQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lec-16-JQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
