@@ -14,7 +14,7 @@ var migrationAssembly = typeof(Program).Assembly.GetName().Name;
 builder.Services.AddDbContext<AppDbContext>(options =>
            options.UseSqlServer(connString, sql => sql.MigrationsAssembly(migrationAssembly)));
 
-builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<AppDbContext>();
 
 

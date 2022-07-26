@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Asp.Net_Core_Identity.Migrations
 {
     public partial class InitialDbContext : Migration
-    {
+    { 
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(

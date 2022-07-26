@@ -15,15 +15,9 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
-@section footer1{
-    <div>
-        <h1>This is index footer</h1>
-    </div>
-}
 
 <partial name="_PartialView1" />
     
-@*
     <p>
     @ViewData["data in partial view"]
 </p>
@@ -32,7 +26,16 @@
 </p>
 <p>
     @ViewBag.y
-</p>*@
+</p>
+
+
+@section footer1{
+    <div>
+        <h1>This is index footer</h1>
+    </div>
+}
+
+
 
 @*<div>
     This is weather<br />
@@ -45,7 +48,7 @@
     <vc:weather-summary></vc:weather-summary>
 </div>
 <div>
-    <vc:tax-summary></vc:tax-summary>
+    <vc:tax-summary tax-amount="20" tax-rate="45"></vc:tax-summary>
 </div>
 
 @*<div>
